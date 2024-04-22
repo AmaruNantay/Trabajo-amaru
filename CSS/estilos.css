@@ -1,0 +1,159 @@
+
+#logotipo{
+    width: 100px;
+    height: 100px;
+}
+
+#imgpromo1{
+    padding-left: 60px;
+    width: 1250px;
+    height: 200px;
+}
+
+.container-fluid{
+    background-color: rgb(24, 24, 24);
+    border-radius: 20px;
+}
+
+.strong{
+    color: aliceblue;
+    padding: 20px;
+    text-decoration: dashed;
+}
+
+body{
+    background:linear-gradient(90deg, rgb(41, 41, 41) 35%, rgb(216, 111, 111) 100%);
+    
+}
+
+.context{
+    background-color: rgb(78, 78, 78);
+    text-align: center;
+    color: aliceblue;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+.tamimagen{
+    width: 175px;
+    padding-top: 10px;
+    
+}
+
+
+.tamimagen2{
+    width: 180px;
+    padding-top: 10px;
+    
+}
+
+.tamimagen3{
+    width: 200px;
+    padding-top: 35px;
+    
+}
+
+#mac{
+    width: 200px;
+    border-radius: 180px;
+    margin-left: 550px;
+}
+
+.texmac{
+    text-align: center;
+    color: #ffffff;
+}
+
+
+<!--login-->
+
+
+#contenedorRecuperar{
+    margin-top: 20px;
+    background-color: #6fa2ff;
+}
+
+
+#giga{
+    height: 200px;
+    width: 600px;
+}
+
+.textoizquierda{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.camposForm{
+    font-size: 30px;
+    border-color: lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+.boton{
+    font-size: 30px;
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+
+.footer{
+    background-color: #505050;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+.footer1{
+    background-color: #505050;
+    text-align: center;
+    margin-top: 280px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.footer2{
+    background-color: #505050;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#contenedorlogin{
+    background-color: #ffffff;
+    width: 500px;
+    margin-left: 400px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+
+.alinearini{
+    padding-left: 60px;
+}
+
+.cantid{
+    padding: 10px;
+    margin: 10px;
+}
+
+.col{
+    margin-top: 30px;
+}
+
+
+
+
